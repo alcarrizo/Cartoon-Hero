@@ -1,0 +1,19 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+body {
+    background-color: purple;
+}
+
+header {
+    background-color: yellow;
+    margin: 0 auto;
+    width: 800px;
+
+}
+
+main {
+    background-color: yellow;
+}

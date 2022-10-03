@@ -1,0 +1,23 @@
+.avatar {
+    width: 300px;
+    height: 350px;
+}
+
+body {
+    background-color: purple;
+}
+
+header {
+    background-color: yellow;
+    margin: 0 auto;
+
+
+}
+
+main {
+    background-color: yellow;
+}
+
+footer {
+    background-color: yellow;
+}
