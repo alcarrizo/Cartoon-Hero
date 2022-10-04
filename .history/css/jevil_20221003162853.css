@@ -1,0 +1,23 @@
+.avatar {
+    width: 300px;
+    height: 350px;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    background-color: #6D6DC0;
+    margin: 0 auto;
+
+
+}
+
+main {
+    background-color: #6D6DC0;
+}
+
+footer {
+    background-color: #6D6DC0;
+}

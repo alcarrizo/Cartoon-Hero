@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background-color: #FFF200;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+h1,
+h2 {
+    font-family: 'Press Start 2P', cursive
+}
+
+header h1 {
+    color: black;
+    font-size: 50px;
+
+}
+
+main img {
+    max-width: 800%;
+}
+
+/*
+Jevil colors:
+Skin: A6BDD0
+
+Shirt: 6D6DC0
+
+Teeth: FFF200
+
+Shoes: B5E61D
+
+Cloak: Pure Black
+*/
+header {
+    background-color: #6D6DC0;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+header img {
+    border-radius: 160px;
+    width: 300px;
+    border: 10px solid #B5E61D;
+}
+
+main,
+footer {
+    background-color: #6D6DC0;
+    max-width: 800px;
+}

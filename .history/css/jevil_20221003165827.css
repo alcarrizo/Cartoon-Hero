@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: #FFF200;
+}
+
+header h1 {
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/*
+Skin: A6BDD0
+
+Shirt: 6D6DC0
+
+Teeth: FFF200
+
+Shoes: B5E61D
+
+Cloak: Pure Black
+*/
+header {
+    background-color: #6D6DC0;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+header img {
+    border-radius: 160px;
+    width: 300px;
+    border: 10px solid #B5E61D;
+}
+
+main {
+    background-color: #6D6DC0;
+}
+
+footer {
+    background-color: #6D6DC0;
+}

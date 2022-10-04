@@ -1,0 +1,35 @@
+.avatar {
+    width: 300px;
+    height: 350px;
+}
+
+body {
+    margin: 0;
+    background-color: #FFF200;
+}
+
+/*
+Skin: A6BDD0
+
+Shirt: 6D6DC0
+
+Teeth: FFF200
+
+Shoes: B5E61D
+
+Cloak: Pure Black
+*/
+header {
+    background-color: #6D6DC0;
+    margin: 0 auto;
+
+
+}
+
+main {
+    background-color: #6D6DC0;
+}
+
+footer {
+    background-color: #6D6DC0;
+}
